@@ -1,0 +1,63 @@
+"analyst_type","grade","skill_type","skill","vacancies_count","skill_rank"
+Data Analyst,Junior,Hard Skill,sql,209,1
+Data Analyst,Junior,Hard Skill,python,117,2
+Data Analyst,Junior,Hard Skill,Анализ данных,92,3
+Data Analyst,Junior,Hard Skill,power bi,52,4
+Data Analyst,Junior,Hard Skill,pandas,51,5
+Data Analyst,Junior,Hard Skill,Документация,49,6
+Data Analyst,Junior,Hard Skill,Коммуникация,35,7
+Data Analyst,Junior,Hard Skill,Аналитическое мышление,27,8
+Data Analyst,Junior,Hard Skill,ms sql,25,9
+Data Analyst,Junior,Hard Skill,data analysis,22,10
+Data Analyst,Junior,Soft Skill,Документация,61,1
+Data Analyst,Junior,Soft Skill,Коммуникация,37,2
+Data Analyst,Junior,Soft Skill,Аналитическое мышление,32,3
+Data Analyst,Junior,Soft Skill,Проактивность,10,4
+Data Analyst,Junior,Soft Skill,Переговоры,5,5
+Data Analyst,Junior,Soft Skill,Креативность,3,6
+Data Analyst,Junior,Soft Skill,Принятие решений,3,7
+Data Analyst,Junior,Soft Skill,Тайм-менеджмент,2,8
+Data Analyst,Junior,Soft Skill,Эмпатия,1,9
+Data Analyst,Junior,Soft Skill,Решение проблем,1,10
+Data Analyst,Middle,Hard Skill,sql,100,1
+Data Analyst,Middle,Hard Skill,python,78,2
+Data Analyst,Middle,Hard Skill,Анализ данных,46,3
+Data Analyst,Middle,Hard Skill,Документация,37,4
+Data Analyst,Middle,Hard Skill,pandas,34,5
+Data Analyst,Middle,Hard Skill,Коммуникация,24,6
+Data Analyst,Middle,Hard Skill,power bi,21,7
+Data Analyst,Middle,Hard Skill,data analysis,20,8
+Data Analyst,Middle,Hard Skill,a/b тесты,16,9
+Data Analyst,Middle,Hard Skill,machine learning,9,10
+Data Analyst,Middle,Soft Skill,Документация,40,1
+Data Analyst,Middle,Soft Skill,Коммуникация,25,2
+Data Analyst,Middle,Soft Skill,Проактивность,10,3
+Data Analyst,Middle,Soft Skill,Переговоры,7,4
+Data Analyst,Middle,Soft Skill,Аналитическое мышление,5,5
+Data Analyst,Middle,Soft Skill,Критическое мышление,2,6
+Data Analyst,Senior,Hard Skill,sql,40,1
+Data Analyst,Senior,Hard Skill,python,34,2
+Data Analyst,Senior,Hard Skill,a/b тесты,16,3
+Data Analyst,Senior,Hard Skill,Документация,9,4
+Data Analyst,Senior,Hard Skill,data analysis,8,5
+Data Analyst,Senior,Hard Skill,confluence,8,6
+Data Analyst,Senior,Hard Skill,power bi,8,7
+Data Analyst,Senior,Hard Skill,Коммуникация,8,8
+Data Analyst,Senior,Hard Skill,ms sql,3,9
+Data Analyst,Senior,Hard Skill,ms excel,3,10
+Data Analyst,Senior,Soft Skill,Коммуникация,10,1
+Data Analyst,Senior,Soft Skill,Документация,9,2
+Data Analyst,Senior,Soft Skill,Решение проблем,4,3
+Data Analyst,Senior,Soft Skill,Внимание к деталям,3,4
+Data Analyst,Senior,Soft Skill,Презентация результатов,2,5
+Data Analyst,Senior,Soft Skill,Проактивность,2,6
+Data Analyst,Senior,Soft Skill,Аналитическое мышление,1,7
+Data Analyst,Senior,Soft Skill,Принятие решений,1,8
+Data Analyst,Senior,Soft Skill,Критическое мышление,1,9
+System Analyst,Junior,Hard Skill,greenplum,2,1
+System Analyst,Junior,Hard Skill,sql,2,2
+System Analyst,Junior,Hard Skill,Документация,2,3
+System Analyst,Junior,Hard Skill,teradata,2,4
+System Analyst,Junior,Soft Skill,Документация,2,1
+System Analyst,Middle,Hard Skill,Документация,2,1
+System Analyst,Middle,Soft Skill,Документация,2,1

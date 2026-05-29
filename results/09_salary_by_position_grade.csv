@@ -1,0 +1,6 @@
+"analyst_type","grade","vacancies_count","vacancies_with_salary","avg_salary_from","avg_salary_to","min_salary_from","max_salary_to"
+Data Analyst,Junior,426,88,100678.96,142024.42,28940.0,300000.0
+Data Analyst,Middle,215,34,204717.39,245790.91,40000.0,497500.0
+Data Analyst,Senior,72,8,245092.86,431870.00,190000.0,495550.0
+System Analyst,Junior,2,0,,,,
+System Analyst,Middle,3,1,120000.00,170000.00,120000.0,170000.0
